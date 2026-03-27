@@ -34,7 +34,6 @@ Ein professionelles PlayerWarp-System für Minecraft-Server (Version 1.21.x). Di
 
 ### Permissions
 * `dcmn.playerwarps.<Anzahl>` - Legt fest, wie viele Warps ein Spieler erstellen darf (z.B. `dcmn.playerwarps.3`).
-* `playerwarp.admin` - Zugriff auf den Reload-Befehl (`/apw reload`).
 
 ## 📂 Konfiguration
 
